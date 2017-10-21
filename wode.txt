@@ -1,0 +1,11 @@
+<html>
+<body background="panda.jpg">
+
+<h1 align="center">Congratulations!!!</h1>
+
+<p>You can Do it</p>
+
+<a href="http://www.hao123.com">My favourite Search Engine</a>
+
+</body>
+</html>
